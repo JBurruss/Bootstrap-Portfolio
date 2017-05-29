@@ -1,8 +1,21 @@
+#navbar{
+	position: fixed;
+}
 #email{
 	float: left;
+	border: 1px solid #ddd;
+	padding: 5px;
 	
+}
+#form-control{
+	float: left;
+	border: 1px solid #ddd;
+	padding: 5px;
+	box-sizing: 40px;
 }
 #social{
 	float: right;
-	padding-right: 80px;
+	padding: 5px;
+	border: 1px solid #ddd;
+
 }
